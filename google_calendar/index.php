@@ -82,7 +82,7 @@
 		printf('Event created: %s\n', $event->htmlLink);
 				
 	}
-	// Below Code will display all the list of your google calender .
+	// Below Code will display all the list of your google calender events.
 	/* if (isset($_SESSION['token'])) {
 	$client->setAccessToken($_SESSION['token']);
 	print "<a class='logout' href='http://www.daimto.com/Tutorials/PHP/GCOAuth.php?logout=1'>LogOut</a><br>";	
